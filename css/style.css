@@ -1,0 +1,20 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1,
+p,
+div {
+  text-align: center;
+}
+
+div a {
+  color: green;
+  margin: 0 10px;
+}
+img {
+  display: block;
+  margin: 30px auto;
+  border-radius: 10px;
+  max-width: 100%;
+}
